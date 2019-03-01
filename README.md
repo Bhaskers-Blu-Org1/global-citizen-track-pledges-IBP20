@@ -21,7 +21,7 @@ node enrollAdmin.js
 ```bash
 node registerGlobalCitizen.js 
 ```
-<br>
+
 ```bash
 node addGlobalCitizen.js
 ```
@@ -32,7 +32,7 @@ node addGlobalCitizen.js
 cd ../aid-org/
 node registerAidOrg.js
 ```
-<br>
+
 ```bash
 node addAidOrg.js
 ```
@@ -43,7 +43,7 @@ node addAidOrg.js
 cd ../gov-org/
 node registerGovOrg.js
 ```
-<br>
+
 ```bash
 node addGovOrg.js
 ```
