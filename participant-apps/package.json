@@ -1,0 +1,20 @@
+{
+    "name": "global-citizen-app",
+    "version": "1.0.0",
+    "description": "Global Citizen Particpants Apps",
+    "main": "index.js",
+    "engines": {
+        "node": ">=8",
+        "npm": ">=5"
+    },
+    "scripts": {
+        "start": "node application.js"
+    },
+    "engineStrict": true,
+    "author": "Raheel Zubairy",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "fabric-ca-client": "~1.4.0",
+        "fabric-network": "~1.4.0"
+    }
+}
